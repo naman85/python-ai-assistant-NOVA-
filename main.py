@@ -9,7 +9,7 @@ engine = pyttsx3.init()
 newsapi = "7dc0c60be8e143ac8742fe2c02b03762"
 
 
-YOUTUBE_API_KEY = "AIzaSyC_71x6VcwdM5HrsJNA0s8Cq8hLMuVGHFM"
+YOUTUBE_API_KEY = "enter_youtube_api_key"
 
 
 def speak(text, min_words=50):
